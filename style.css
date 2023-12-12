@@ -1,9 +1,19 @@
 h1{
     text-align: center;
+    font-size: 3em;
+    font-family: Georgia, 'Times New Roman', Times, serif;
 }
 
-p{
+h2{
+    font-size: 1.3em;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+p {
     text-align: center;
+    font-size: 1.5em;
+    border: 0.1em solid black;
+    
 }
 
 .logo {
@@ -36,7 +46,7 @@ overflow: hidden;
 }
 
 .navbar a:hover{
-    background-color: rgb(196, 129, 3)
+    background-color: rgb(60, 0, 56)
 }
 
 .navbar li{
@@ -44,7 +54,138 @@ overflow: hidden;
 }
 
 
-body{
+header{
+    background-color: orange;
+    margin: 0%;
+    padding: 0%;
+}
+
+.volumes {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 30%;
+}
+
+.dbanime {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 30%;
+}
+
+.dbzanime {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 30%;
+}
+
+.dbgtanime {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 30%;
+}
+
+.dbsanime {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 30%;
+}
+
+.dbmanime {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 60%;
+}
+
+.dbshanime {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 30%;
+}
+
+footer{
     background-color: orange;
 }
+
+.dbb1 {
+    width: 20%;
+}
+
+.dbb2 {
+    width: 20%;
+}
+
+.dbb3 {
+    width: 20%;
+}
+
+.dbfz {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 30%;
+}
+
+.goku {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 20%;
+}
+
+.vegeta {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 20%;
+}
+
+.krillin {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 20%;
+}
+
+.gohan {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 20%;
+}
+
+.bulma {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 20%;
+}
+
+.shenron {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 20%;
+}
+
+.beerus {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 20%;
+}
+
+.frieza {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 20%;
+}
+
 
